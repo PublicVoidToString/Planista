@@ -1,0 +1,93 @@
+IA Matematyka Andrzejewski 4
+IA Polski Kowalski 2
+IA Angielski Stanisławczyk 2
+IA Przyroda Kołodziej 1
+IA WF Mróz 2
+IA Muzyka Górski 1
+IA Plastyka Górski 1
+
+IB Matematyka Andrzejewski 4
+IB Polski Kowalski 2
+IB Angielski Stanisławczyk 2
+IB Przyroda Kołodziej 1
+IB WF Mróz 2
+IB Muzyka Górski 1
+IB Plastyka Górski 1
+
+IC Matematyka Andrzejewski 4
+IC Polski Kowalski 2
+IC Angielski Stanisławczyk 2
+IC Przyroda Kołodziej 1
+IC WF Mróz 2
+IC Muzyka Górski 1
+IC Plastyka Górski 1
+
+ID Matematyka Andrzejewski 4
+ID Polski Kowalski 2
+ID Angielski Stanisławczyk 2
+ID Przyroda Kołodziej 1
+ID WF Mróz 2
+ID Muzyka Górski 1
+ID Plastyka Górski 1
+
+IIA Matematyka Andrzejewski 6
+IIA Polski Kowalski 1
+IIA Angielski Stanisławczyk 3
+IIA Przyroda Kołodziej 1
+IIA WF Mróz 1
+IIA Muzyka Górski 1
+IIA Plastyka Górski 1
+
+IIB Matematyka Andrzejewski 3
+IIB Polski Kowalski 6
+IIB Angielski Stanisławczyk 5
+IIB Przyroda Kołodziej 1
+IIB WF Mróz 2
+
+IIC Matematyka Andrzejewski 3
+IIC Polski Kowalski 3
+IIC Angielski Stanisławczyk 3
+IIC Przyroda Kołodziej 1
+IIC WF Mróz 3
+IIC Muzyka Górski 1
+IIC Plastyka Górski 1
+
+IID Matematyka Andrzejewski 2
+IID Polski Kowalski 2
+IID Angielski Stanisławczyk 4
+IID Przyroda Kołodziej 1
+IID WF Mróz 5
+IID Muzyka Górski 1
+IID Plastyka Górski 1
+
+IIIA Matematyka Andrzejewski 1
+IIIA Polski Kowalski 1
+IIIA Angielski Stanisławczyk 1
+IIIA Przyroda Kołodziej 1
+IIIA WF Mróz 1
+IIIA Muzyka Górski 1
+IIIA Plastyka Górski 1
+
+IIIB Matematyka Andrzejewski 1
+IIIB Polski Kowalski 2
+IIIB Angielski Stanisławczyk 2
+IIIB Przyroda Kołodziej 1
+IIIB WF Mróz 2
+IIIB Muzyka Górski 1
+IIIB Plastyka Górski 1
+
+IIIC Matematyka Andrzejewski 1
+IIIC Polski Kowalski 1
+IIIC Angielski Stanisławczyk 1
+IIIC Przyroda Kołodziej 1
+IIIC WF Mróz 1
+IIIC Muzyka Górski 1
+IIIC Plastyka Górski 1
+
+IIID Matematyka Andrzejewski 1
+IIID Polski Kowalski 1
+IIID Angielski Stanisławczyk 1
+IIID Przyroda Kołodziej 1
+IIID WF Mróz 1
+IIID Muzyka Górski 1
+IIID Plastyka Górski 1

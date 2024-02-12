@@ -1,0 +1,31 @@
+IA Matematyka Andrzejewski 4
+IA Polski Kowalski 2
+IA Angielski Stanisławczyk 2
+IA Przyroda Kołodziej 1
+IA WF Mróz 2
+IA Muzyka Górski 1
+IA Plastyka Górski 1
+
+IB Matematyka Andrzejewski 4
+IB Polski Kowalski 2
+IB Angielski Stanisławczyk 2
+IB Przyroda Kołodziej 1
+IB WF Mróz 2
+IB Muzyka Górski 1
+IB Plastyka Górski 1
+
+IC Matematyka Andrzejewski 4
+IC Polski Kowalski 2
+IC Angielski Stanisławczyk 2
+IC Przyroda Kołodziej 1
+IC WF Mróz 2
+IC Muzyka Górski 1
+IC Plastyka Górski 1
+
+ID Matematyka Andrzejewski 4
+ID Polski Kowalski 2
+ID Angielski Stanisławczyk 2
+ID Przyroda Kołodziej 1
+ID WF Mróz 2
+ID Muzyka Górski 1
+ID Plastyka Górski 1
